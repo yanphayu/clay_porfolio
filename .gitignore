@@ -1,0 +1,9 @@
+# never commit secrets
+php/config.php
+
+# uploads from local testing
+assets/uploads/
+
+# misc
+node_modules/
+.env

@@ -1,0 +1,13 @@
+<?php
+
+declare(strict_types=1);
+
+// ---- MySQL connection (edit to match your server) ----
+const DB_HOST = '127.0.0.1';
+const DB_PORT = 3306;
+const DB_NAME = 'portfolio';
+const DB_USER = 'root';
+const DB_PASS = 'your_db_password';
+
+// ---- Dashboard login ----
+const ADMIN_PASSWORD = 'change-me';
